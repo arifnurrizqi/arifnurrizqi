@@ -20,13 +20,14 @@
 ### Languages and Tools:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://id.wikipedia.org/wiki/HTML" title="Html"><img width="37px" src="icons/html.png" /></a>
-<a href="https://en.wikipedia.org/wiki/CSS" title="Css"><img width="60px" src="icons/CSS-Logo.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<a href="https://en.wikipedia.org/wiki/CSS" title="Css"><img width="30px" src="icons/css.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://nodejs.org/" title="Nodejs"><img width="37px" src="icons/nodejs.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://g.co/kgs/UgdoV1" title="Cpp"><img width="30px" margin="10px" src="icons/cpp.png" /></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="#" title="terminal"><img width="37px" src="icons/terminal.png" /></a>
 
 <br/>
