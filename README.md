@@ -19,7 +19,7 @@
 
 ### Languages and Tools:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://id.wikipedia.org/wiki/HTML" title="Html"><img width="37px" src="icons/html.png" /></a>
+<a href="https://id.wikipedia.org/wiki/HTML" title="Html"><img width="39px" src="icons/html.png" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="Css"><img width="30px" src="icons/css.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://nodejs.org/" title="Nodejs"><img width="37px" src="icons/nodejs.png" /></a>
