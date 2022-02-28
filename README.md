@@ -5,7 +5,7 @@
 - 👀 I’m interested in embeded system and web development
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate with other people
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: i love him :v
 
 ### Connect with me:
