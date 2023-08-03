@@ -40,7 +40,7 @@
 [website]: https://aarrnnuurr.netlify.app/error.html
 [twitter]: https://twitter.com/arifnurrizqi
 [youtube]: https://www.youtube.com/channel/UCArjaHdj-UV9FQZNL_aZgRg
-[instagram]: https://instagram.com/arifnurrizqi_
+[instagram]: https://instagram.com/arifnur.rizqi
 <!---
 arifnurrizqi/arifnurrizqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
