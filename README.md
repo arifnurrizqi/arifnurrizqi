@@ -3,10 +3,15 @@
 ### I'm a Student
 
 - 👀 I’m interested in embeded system and web development
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Internet of Things and Backend development
 - 💞️ I’m looking to collaborate with other people
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: i love him :v
+- 🥅 2024 Goals:
+  * Contribute more to Open Source projects
+  * Completed the project last year
+  * Get an internship
+  * Get funding PKM 2024
+  * Start working on the final assignment
+- ⚡ Fun fact: i love you ♥
 
 ### Connect with me:
 
