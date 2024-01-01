@@ -9,7 +9,7 @@
   * Contribute more to Open Source projects
   * Completed the project last year
   * Get an internship
-  * Get funding PKM 2024
+  * Take part in PIMNAS 2024
   * Start working on the final assignment
 - ⚡ Fun fact: i love you ♥
 
