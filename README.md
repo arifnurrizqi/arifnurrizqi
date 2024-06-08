@@ -11,7 +11,7 @@
   * Get an internship
   * Take part in PIMNAS 2024
   * Start working on the final assignment
-- ⚡ Fun fact: i love you ♥
+- ⚡ Fun fact: i love april ♥
 
 ### Connect with me:
 
