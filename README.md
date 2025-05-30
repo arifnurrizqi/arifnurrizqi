@@ -5,12 +5,11 @@
 - 👀 I’m interested in embeded system and web development
 - 🌱 I’m currently learning Internet of Things and Backend development
 - 💞️ I’m looking to collaborate with other people
-- 🥅 2024 Goals:
+- 🥅 2025 Goals:
   * Contribute more to Open Source projects
   * Completed the project last year
-  * Get an internship
-  * Take part in PIMNAS 2024
-  * Start working on the final assignment
+  * Get a Job
+  * Graduate from college
 - ⚡ Fun fact: -
 
 ### Connect with me:
@@ -44,9 +43,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifnurrizqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-[website]: https://aarrnnuurr.netlify.app/error.html
+[website]: https://arifnr.my.id
 [twitter]: https://twitter.com/arifnurrizqi
-[youtube]: https://www.youtube.com/channel/UCArjaHdj-UV9FQZNL_aZgRg
+[youtube]: https://www.youtube.com/@arifnurrizqi
 [instagram]: https://instagram.com/arifnur.rizqi
 <!---
 arifnurrizqi/arifnurrizqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
