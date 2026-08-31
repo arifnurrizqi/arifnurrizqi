@@ -2,14 +2,14 @@
 
 ### I'm a Student
 
-- 👀 I’m interested in embeded system and web development
-- 🌱 I’m currently learning Internet of Things and Backend development
+- 👀 I’m interested in instrument engineering, embeded system and system development
+- 🌱 I’m currently learning instrumentation for process industries, Internet of Things and Full Stack development
 - 💞️ I’m looking to collaborate with other people
-- 🥅 2025 Goals:
+- 🥅 2026 Goals:
   * Contribute more to Open Source projects
-  * Completed the project last year
-  * Get a Job
-  * Graduate from college
+  * Completed the all project
+  * Get a Job with high payment
+  * Make more money
 - ⚡ Fun fact: -
 
 ### Connect with me:
